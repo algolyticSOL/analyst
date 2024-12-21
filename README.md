@@ -25,7 +25,7 @@ Algolytics is an AI-powered Solana trading analytics platform that leverages Cla
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/algolytics.git
+git clone https://github.com/algolyticSOL/analyst
 cd algolytics
 ```
 
