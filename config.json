@@ -1,0 +1,24 @@
+{
+    "TOKEN": "",
+    "BUY_AMOUNT": 1,
+    "AI_CONFIG": {
+        "modelEndpoint": "",
+        "minConfidence": 0.75,
+        "historicalDataDays": 30,
+        "riskTolerance": "moderate",
+        "maxTransactionsPerAnalysis": 1000
+    },
+    "SOLANA_CONFIG": {
+        "network": "mainnet-beta",
+        "commitment": "confirmed",
+        "maxRetries": 3,
+        "minSolBalance": 0.1
+    },
+    "TRADING_CONFIG": {
+        "maxSlippage": 1.0,
+        "minLiquidity": 1000,
+        "gasBuffer": 0.01,
+        "maxTradesPerDay": 10,
+        "cooldownPeriod": 300
+    }
+}
