@@ -1,6 +1,6 @@
 # Algolytics
 
-Algolytics is an AI-powered Solana trading analytics platform that leverages Claude 3 Opus (Anthropic's latest LLM) to analyze trading patterns and provide intelligent trading insights.
+Algolytics is an AI-powered Solana trading analytics platform that leverages Anthropic to analyze trading patterns and provide intelligent trading insights.
 
 ## Features
 
